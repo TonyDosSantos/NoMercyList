@@ -1,6 +1,6 @@
 -- =============================================================================
 -- KillList.lua - Addon complet pour TBC Anniversary (Interface 20504)
--- v1.2 : colonnes Niveau + Classe, ajout via cible..
+-- v1.2 : colonnes Niveau + Classe, ajout via cible...
 
 -- =============================================================================
 
