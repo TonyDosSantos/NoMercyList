@@ -1,0 +1,15 @@
+## Interface: 20504
+## Title: No Mercy List
+## Notes: Suivi kills/morts PvP - TBC Anniversary
+## Author: NoMercyList
+## Version: 1.5.2
+## SavedVariables: NoMercyListDB
+
+Locales\Locales.lua
+Locales\frFR.lua
+Locales\enUS.lua
+Locales\deDE.lua
+Locales\esES.lua
+Locales\ruRU.lua
+
+NoMercyList.lua
